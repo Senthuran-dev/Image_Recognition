@@ -75,22 +75,6 @@ You can use any of the following datasets:
 
 ---
 
-## 📜 Deliverables
-**GitHub Repository:**
-- Preprocessing, model, evaluation, and visualization scripts
-- Trained model files
-- Sample predictions with expected outputs
-- Plots and metrics
-- This README file
-
-**Demo Video:**
-- 30-second video showing the trained model making live predictions.
-
-**Presentation:**
-- 5-slide summary covering dataset, model, training, results, and next steps.
-
----
-
 ## ▶️ Running the Project
 ```bash
 # Clone repo
