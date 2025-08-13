@@ -75,17 +75,5 @@ You can use any of the following datasets:
 
 ---
 
-## ▶️ Running the Project
-```bash
-# Clone repo
-git clone https://github.com/yourusername/vision-ai-5days.git
-cd vision-ai-5days
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run training
-python train.py
-
 # Run predictions
 python predict_demo.py
