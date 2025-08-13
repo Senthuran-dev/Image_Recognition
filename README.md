@@ -74,6 +74,3 @@ You can use any of the following datasets:
 - **Loss & Accuracy Curves**
 
 ---
-
-# Run predictions
-python predict_demo.py
